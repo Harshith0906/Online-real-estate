@@ -41,7 +41,7 @@ class Navbar extends Component {
                         src={publicUrl + "assets/img/icon/location.png"}
                         alt="img"
                       />{" "}
-                      {this.state.ContactUs.location}
+                      Vnr Vjiet
                     </p>
                   </li>
                   <li>
@@ -59,7 +59,7 @@ class Navbar extends Component {
                         src={publicUrl + "assets/img/icon/envelope.png"}
                         alt="img"
                       />{" "}
-                      {this.state.ContactUs.email}
+                      Findhome@gmail.com
                     </p>
                   </li>
                 </ul>

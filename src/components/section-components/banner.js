@@ -29,9 +29,9 @@ class Banner extends Component {
                       <div className="single-select-inner">
                         <select defaultValue={0}>
                           <option value={0}>Loctaion</option>
-                          <option value={1}>Lahore</option>
-                          <option value={2}>Islamabad</option>
-                          <option value={3}>Multan</option>
+                          <option value={1}>Hyderabad</option>
+                          <option value={2}>Warngal</option>
+                          <option value={3}>Karimnagar</option>
                         </select>
                       </div>
                     </div>

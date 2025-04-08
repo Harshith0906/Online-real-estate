@@ -43,21 +43,21 @@ class ContactForm extends Component {
                 <div className="row">
                   <div className="col-md-6">
                     <div className="contact-single-list">
-                      <h5>Pakistan Office</h5>
+                      <h5>Hyderabad</h5>
                       <ul>
                         <li>
                           <img
                             src={publicUrl + "assets/img/icon/location2.png"}
                             alt="img"
                           />{" "}
-                          {this.state.ContactUs.location}
+                          Vnr Vjiet College
                         </li>
                       </ul>
                     </div>
                   </div>
                   <div className="col-md-6">
                     <div className="contact-single-list">
-                      <h5>Pakistan Office</h5>
+                      <h5>Bachupally</h5>
                       <ul>
                         <li>
                           <img

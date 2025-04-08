@@ -86,7 +86,7 @@ class Footer_v2 extends Component {
                   <div className="details">
                     <p>
                       <i className="fas fa-map-marker-alt" />{" "}
-                      {this.state.ContactUs.location}
+                      Vnr Vjiet
                     </p>
                     <p>
                       <i className="fas fa-phone-volume" />{" "}
@@ -94,7 +94,7 @@ class Footer_v2 extends Component {
                     </p>
                     <p>
                       <i className="fas fa-envelope" />{" "}
-                      {this.state.ContactUs.email}
+                      Findhome@gmail.com
                     </p>
                   </div>
                 </div>

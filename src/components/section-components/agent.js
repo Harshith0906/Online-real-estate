@@ -17,7 +17,7 @@ class Agent extends Component {
                   <img src={publicUrl + "assets/img/agent/1.png"} alt="img" />
                 </div>
                 <div className="details">
-                  <h4>Sandara Mrikon</h4>
+                  <h4>Harshith Patel</h4>
                   <h6>Estate Agent</h6>
                   <ul className="social-area style-2">
                     <li>
@@ -50,7 +50,7 @@ class Agent extends Component {
                   <img src={publicUrl + "assets/img/agent/2.png"} alt="img" />
                 </div>
                 <div className="details">
-                  <h4>Sarif Jaya Miprut</h4>
+                  <h4>Hanvith Patel</h4>
                   <h6>Area Agent</h6>
                   <ul className="social-area style-2">
                     <li>
@@ -83,8 +83,8 @@ class Agent extends Component {
                   <img src={publicUrl + "assets/img/agent/3.png"} alt="img" />
                 </div>
                 <div className="details">
-                  <h4>Jordan Smith</h4>
-                  <h6>Expart Agent</h6>
+                  <h4>Smith</h4>
+                  <h6>Jordan</h6>
                   <ul className="social-area style-2">
                     <li>
                       <a href="#">
